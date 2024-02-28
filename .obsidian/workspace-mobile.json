@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "047440b9a434a64a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5690ab8b2d0987cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a83a3b259f3f8b20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "privateClass/untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f33298f07262a82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "万方皆北.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7be7adb57b56952f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4fe8b927be941e1e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7069dc4ec9ec3e0f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0277a6762b5299a3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "9949eee5c1f33734",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "9a63d8959da40f02",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f3597e13a150b2de",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "万方皆北.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "98668a3b2b6ea75a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "万方皆北.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ab82284a4a109966",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "万方皆北.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "7f33298f07262a82",
+  "lastOpenFiles": [
+    "README.md",
+    "万方皆北.md",
+    "/万方皆北.pdf",
+    "/万方皆北.md",
+    "/Dungeon/欧海明.md",
+    "privateClass/untitled.md",
+    "未命名.md",
+    "privateClass",
+    "万方皆北.pdf"
+  ]
+}
