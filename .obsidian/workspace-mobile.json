@@ -99,7 +99,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "万方皆北.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -116,7 +115,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "万方皆北.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -128,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "万方皆北.md"
+            "file": "未命名.md"
           }
         }
       }
@@ -145,10 +143,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7f33298f07262a82",
+  "active": "4fe8b927be941e1e",
   "lastOpenFiles": [
-    "README.md",
     "万方皆北.md",
+    "README.md",
     "/万方皆北.pdf",
     "/万方皆北.md",
     "/Dungeon/欧海明.md",
